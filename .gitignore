@@ -1,4 +1,4 @@
 configure.ac
-makefile.am
-makefile
+Makefile.am
+Makefile
 
