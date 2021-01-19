@@ -3,3 +3,4 @@ Makefile.am
 Makefile
 configure
 Tic-Tac-Toe.o
+.vscode/c_cpp_properties.json
